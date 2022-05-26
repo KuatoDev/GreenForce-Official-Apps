@@ -1,0 +1,7 @@
+id=GreenForceAddon
+name=GreenForce Addon
+version=v.1.0.1
+versionCode=1
+author=Vern Kuato | GreenForce™ Developer
+description=Extra Features for GreenForce™ Official Apps
+minMagisk=2300
